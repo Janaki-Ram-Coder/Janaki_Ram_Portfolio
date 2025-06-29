@@ -15,7 +15,7 @@
 
 ## 🚀 Live Demo
 
-👉 [Click here to view the live portfolio](https://github.com/Janaki-Ram-Coder)  
+👉 [Click here to view the live portfolio](https://janakiramportfolio.netlify.app)  
 (If not deployed, you can also use GitHub Pages for hosting.)
 
 ---
