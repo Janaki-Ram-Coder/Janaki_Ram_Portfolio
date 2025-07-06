@@ -20,18 +20,13 @@
 
 ---
 
-## 📫 Contact
-
-Feel free to reach out to me:
-
-- 📧 **Email**: janakiram9471@gmail.com  
-- 🔗 **LinkedIn**: [K Janaki Ram](https://www.linkedin.com/in/k-janaki-ram-94a27227b)  
-- 💻 **GitHub**: [Janaki-Ram-Coder](https://github.com/Janaki-Ram-Coder)
+## 👨‍💻 Developer Info
+## K Janaki Ram
+-🎓 MCA Student @ GIET University, Gunupur
+-💼 Skills: Java, Spring Boot, ReactJS, MySQL, MongoDB, Node.js, Docker
+-📬 Email: janakiram9471@gmail.com
+-🌐 GitHub: Janaki-Ram-Coder
 
 ---
 
-## 🙏 Acknowledgements
-
-- [EmailJS](https://www.emailjs.com/)
-- [ScrollReveal](https://scrollrevealjs.org/)
-- [Remix Icons](https://remixicon.com/)
+## THANK YOU
