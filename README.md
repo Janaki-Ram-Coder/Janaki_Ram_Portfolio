@@ -30,12 +30,6 @@ Feel free to reach out to me:
 
 ---
 
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
 ## 🙏 Acknowledgements
 
 - [EmailJS](https://www.emailjs.com/)
