@@ -16,16 +16,15 @@
 ## 🚀 Live Demo
 
 👉 [Click here to view the live portfolio](https://janakiramportfolio.netlify.app)  
-(If not deployed, you can also use GitHub Pages for hosting.)
 
 ---
 
 ## 👨‍💻 Developer Info
 ## K Janaki Ram
--🎓 MCA Student @ GIET University, Gunupur
--💼 Skills: Java, Spring Boot, ReactJS, MySQL, MongoDB, Node.js, Docker
--📬 Email: janakiram9471@gmail.com
--🌐 GitHub: Janaki-Ram-Coder
+- 🎓 MCA Student @ GIET University, Gunupur
+- 💼 Skills: Java, Spring Boot, ReactJS, MySQL, MongoDB, Node.js, Docker
+- 📬 Email: janakiram9471@gmail.com
+- 🌐 GitHub: Janaki-Ram-Coder
 
 ---
 
